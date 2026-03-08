@@ -11,5 +11,5 @@ An uwuifier for Windows Terminal.
 In a terminal, run:
 
 ```powershell
-uwuify <text to uwuify>
+uwuify <"text to uwuify">
 ```
