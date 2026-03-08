@@ -4,7 +4,7 @@ An uwuifier for Windows Terminal.
 
 ## Installation
 
-[Releases]()
+[Releases](https://github.com/unami-fx/uwuifier/releases/tag/v1.0)
 
 ## Usage:
 
