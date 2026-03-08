@@ -1,6 +1,6 @@
 # uwuifier
 
-An uwuifier for Windows Terminal.
+An uwuifier for Windows.
 
 ## Installation
 
@@ -11,5 +11,5 @@ In the [releases](https://github.com/unami-fx/uwuifier/releases) section of this
 In a terminal, run:
 
 ```powershell
-uwuify <"text to uwuify">
+uwuify <text to uwuify>
 ```
